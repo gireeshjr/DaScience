@@ -1,6 +1,1 @@
 # DaScience
-
-Chris Varghese
-
-
-#Gireesh
